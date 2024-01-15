@@ -5,8 +5,12 @@ A Simple Resume Builder !
 ## 🚀 Features
 
 - Responsive design.
-- Soft-looking keys for a user-friendly experience.
-- Print button to download the Cv.
+- Soft-looking UI
+
+
+
+ for a user-friendly experience.
+- Print button to download the CV.
 
 ## 🛠️ Usage
 
@@ -25,7 +29,7 @@ git clone https://github.com/anubhavv106/Resume-Builder.git
 
 ## 🎥 Demo Video
 
-https://github.com/anubhavv106/LGMVIP-Web-Task-04.github.io/assets/112748712/b4747e58-efd7-4141-b990-cd288f4261d4
+
 
 ## 📝 License
 
