@@ -5,11 +5,7 @@ A Simple Resume Builder !
 ## 🚀 Features
 
 - Responsive design.
-- Soft-looking UI
-
-
-
- for a user-friendly experience.
+- Soft-looking UI for a user-friendly experience.
 - Print button to download the CV.
 
 ## 🛠️ Usage
@@ -28,6 +24,10 @@ git clone https://github.com/anubhavv106/Resume-Builder.git
 - JavaScript
 
 ## 🎥 Demo Video
+
+
+
+Uploading VN20240115_210143.mp4…
 
 
 
