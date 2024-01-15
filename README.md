@@ -15,7 +15,7 @@ A Simple Resume Builder !
 
 git clone https://github.com/anubhavv106/Resume-Builder.git
    ```
-2. Open the `resume.html` file in your browser.
+2. Open the `index.html` file in your browser.
 
 ## 🧰 Technologies Used
 
@@ -26,8 +26,7 @@ git clone https://github.com/anubhavv106/Resume-Builder.git
 ## 🎥 Demo Video
 
 
-
-Uploading VN20240115_210143.mp4…
+https://github.com/anubhavv106/Resume-Builder/assets/112748712/fc9d89db-ad32-4d70-85ba-5bc4a3132bc6
 
 
 
